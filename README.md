@@ -22,8 +22,8 @@ An online banking app to help customers view and keep track of history, statemen
 
 ## Demonstration
 
-![Screen Shot 2021-07-13 at 6 42 25 PM](https://user-images.githubusercontent.com/69088802/125534919-5997f2e7-a20b-4cb5-b4a2-476a2226ecfa.png)
-
+### Homepage View
+![Screen Shot 2021-07-13 at 6 49 48 PM](https://user-images.githubusercontent.com/69088802/125535103-3a6dd08b-ea32-4c01-80c5-131077322700.png)
 
 ## Installation
 
