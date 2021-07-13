@@ -6,17 +6,11 @@
 
 An online banking app to help customers view and keep track of history, statements, and balance in real time.
 
-:round_pushpin: [Click here to navigate to deployed React App!](h) :round_pushpin:
-
 ## Table of Contents
 
 - [ArkBank_Dev](#arkbank_dev)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Demonstration](#demonstration)
-    - [Header View](#header-view)
-    - [Color Change Time-Blocks](#color-change-time-blocks)
-    - [Directory Structure](#directory-structure)
   - [Installation](#installation)
     - [`npm start`](#npm-start)
     - [`npm test`](#npm-test)
@@ -28,23 +22,11 @@ An online banking app to help customers view and keep track of history, statemen
 
 ## Demonstration
 
-### Header View
-![Header Display Local Time](./src/img/header1.png)
-
-### Color Change Time-Blocks
-![Change In Color Depending On Time](./src/img/color-change.png)
-
-
-### Directory Structure
-
-```
-
-├── README.md
-```
+[Screen Shot 2021-07-13 at 6 41 26 PM](https://user-images.githubusercontent.com/69088802/125534357-720fa66f-019f-4fd5-9c1c-675139055d9b.png)
 
 ## Installation
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -82,20 +64,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This application is licensed under the MIT License.
+This application is licensed under the MIT License!
 
 ## Collaboration
 
 This application was created with the following collaborators:
 
-[Hyunsoo Jeon](https://github.com/hsprime85)
-[Tanvir Bashar](https://github.com/tbashar123)
-[David Daviss](https://github.com/dbd3)
-[Nicole Catapano](https://github.com/nsc9605)
+- [Hyunsoo Jeon](https://github.com/hsprime85)
+- [Tanvir Bashar](https://github.com/tbashar123)
+- [David Daviss](https://github.com/dbd3)
+- [Nicole Catapano](https://github.com/nsc9605)
 
 ## Technologies
 
 - [ReactJS](https://reactjs.org/)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/docs/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Terminal / Git Bash
