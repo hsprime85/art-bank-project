@@ -1,0 +1,142 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.title-container {
+  padding: 1.5rem;
+  position: relative;
+  background: url(homepage.jpeg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title-cards-login h3 {
+  text-align: center;
+}
+
+.title-submit-button {
+  width: 90%;
+}
+
+.title-cards-login-form {
+  width: 110%;
+}
+
+.name-cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.name-cards h2 {
+  color: rgb(45, 47, 166);
+}
+
+.name-cards h1 {
+  color: rgb(86, 86, 86);
+}
+
+.form-group {
+  width: 90%;
+}
+.cards-container {
+  padding: 1rem;
+  margin: 0 auto;
+  margin-bottom: 0.5rem;
+}
+
+.learn-more {
+  display: block;
+
+  width: 100%;
+}
+
+.checking-container {
+  padding: 1rem;
+  margin: 0 auto;
+  height: 33vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.enjoy {
+  background-color: rgb(64, 64, 226);
+  color: white;
+  font-size: 6rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.checking-customers {
+  padding: 4rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.checking-customers h1 {
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.checking-customers h4 {
+  color: black;
+}
+
+.continue {
+  display: block;
+  width: 50%;
+}
+
+.follow-us {
+  color: rgb(91, 91, 91);
+  text-align: center;
+  word-spacing: 0.5rem;
+}
+
+.footer-container {
+  background-color: rgb(210, 210, 210);
+}
+
+.footer-title {
+  color: black;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+Button:hover {
+  transform: translateY(-2px);
+}
